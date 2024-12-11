@@ -1,5 +1,6 @@
 Le classement des parcs selon la méthode ELECTRE (favorisation des petites valeurs) sont disponibles dans les fichiers : 
-	- "ranking.csv" pour le classement selon les notes des interviews
+	
+ 	- "ranking.csv" pour le classement selon les notes des interviews
 	- "ranking_prime.csv" pour le classement selon les notes du groupe PEI 16
 
 L'indice de concordance utilisé ici est de 0,4.
